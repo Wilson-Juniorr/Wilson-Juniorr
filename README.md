@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=62E2FF&size=35&center=true&vCenter=true&width=1000&lines=ÓLA,+MEU+NOME+É+Wilson+Junior;Tenho+17+Anos!;I+from+Brasil,+SP;Estudo+desenvolvimento+de+sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wilson-Wilson-Juniorr&show_icons=true&count_private=true&hide_border=true&title_color=62E2FF&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="wilson github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wilson-Juniorr&show_icons=true&count_private=true&hide_border=true&title_color=62E2FF&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="wilson github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilson-Juniorr&layout=compact&hide_border=true&title_color=00bfbf&text_color=62E2FF&bg_color=0d1117" />
 </div>
 
