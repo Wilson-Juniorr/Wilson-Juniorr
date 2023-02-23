@@ -1,10 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1034A6&height=140&section=header"/>
 
-<br><br>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=62E2FF&size=35&center=true&vCenter=true&width=1000&lines=ÓLA,+MEU+NOME+É+Wilson+Junior;Tenho+17+Anos!;I+from+Brasil,+SP;Estudo+desenvolvimento+de+sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
-<br>
+<br><br><br>
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wilson-Juniorr&theme=gotham)
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Wilson-Juniorr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
