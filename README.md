@@ -28,8 +28,8 @@
  <br><br><br><br>
  
 <p align="left">
-<a href="https://github.com/Wilson-Juniorr/Rocket_NFTs">
-<img width="278" src="https://wilson-juniorr.github.io/To-do-list/&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="space-tourism">
+<a href="https://github.com/Wilson-Juniorr/To-do-list">
+<img width="278" src="https://wilson-juniorr.github.io/To-do-list&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="space-tourism">
 </a>
  
  <br><br><br><br>
